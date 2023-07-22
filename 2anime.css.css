@@ -1,0 +1,185 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family: cursive;
+}
+.body{
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.3)),url(zoro\ back.jpg);
+    height: 100vh;
+    width: 100%;
+    background-repeat: repeat;
+    background-size: cover;
+    font-size: 15px;
+}
+h1{
+    color: white;
+    text-align: center;
+    background-color: rgba(255, 0, 0, 0.449);
+    padding: 20px;
+    
+    
+}
+.his{
+   color: white;
+   padding: 25px;
+   text-decoration-thickness: 12px;
+}
+p{
+    color: white;
+    padding: 25px;
+}
+.early{
+    color: rgb(0, 128, 0);
+}
+.benz{
+   width: 320px;
+   padding: 30px;
+}
+.gold{
+    color: gold;
+}
+.mod{
+    color: silver;
+}
+.forall{
+    color: white;
+    padding: 12px;
+}
+.div{
+    background-image: url(benz.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+}
+
+.one{
+        background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.3)),url(One\ Piece\ \(1999\).jpg);
+    height: 100vh;
+    width: 100%;
+    background-repeat: repeat;
+    background-size: cover;
+    font-size: 15px;
+}
+.naruto{
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.3)),url(Naruto.jpg);
+    height: 100vh;
+    width: 100%;
+    background-repeat: repeat;
+    background-size: cover;
+    font-size: 15px;
+}
+.bleach{
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.3)),url(Bleach.jpg);
+    height: 100vh;
+    width: 100%;
+    background-repeat: repeat;
+    background-size: cover;
+    font-size: 15px;
+}
+
+.neon{
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.3)),url(Neon\ Genesis\ Evangelion\ \(1995\).jpg);
+    height: 100vh;
+    width: 100%;
+    background-repeat: repeat;
+    background-size: cover;
+}
+.Fullmetal{
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.3)),url(Fullmetal\ Alchemist\ Brotherhood.png);
+    height: 100vh;
+    width: 100%;
+    background-repeat: repeat;
+    background-size: cover;
+}
+.blue{
+    color: rgb(255, 241, 113);
+}
+.btn btn-success{
+    padding: 25px;
+}
+.warning{
+    color: red;
+    padding: 34px;
+}
+.logo{
+    background-image:linear-gradient(rgba(0, 0, 0, 0),rgba(0, 0, 0, 0.153)),url(Logo\ 1.png);
+    background-repeat: no-repeat;
+    float: right;
+    width: 120px;
+    height: 120px;
+    border-color: rgb(87, 45, 171);
+    border: 4px;
+    border-radius: 12px;
+   
+}
+.spirit{
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.3)),url(Spirited\ Away\ \(2001\).jpg);
+    height: 100vh;
+    width: 100%;
+    background-repeat: repeat;
+    background-size: cover;}
+    .akira{
+        background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.3)),url(Akira\ \(1988\).jpg);
+        height: 100vh;
+        width: 100%;
+        background-repeat: repeat;
+        background-size: cover;}
+    .name{
+            background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.3)),url(Your\ Name.\ \(2016\).jpg);
+            height: 100vh;
+            width: 100%;
+            background-repeat: repeat;
+            background-size: cover;}
+            .cowboy{
+                background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.3)),url(Cowboy\ Bebop\ \(1998\).jpg);
+                height: 100vh;
+                width: 100%;
+                background-repeat: repeat;
+                background-size: cover;}
+            .death{
+                 background: linear-gradient(rgba(0,0,0,0.6),rgba(0, 0, 0, 0.721)),url(Death\ Note\ \(2006\).jpg);
+                    height: 100vh;
+                    width: 100%;
+                    background-repeat: repeat;
+                    background-size: cover;}
+                    .titan{
+                        background: linear-gradient(rgba(0, 0, 0, 0.314),rgba(0, 0, 0, 0.721)),url(Attack\ on\ Titan\ \(2013\).png);
+                           height: 100vh;
+                           width: 100%;
+                           background-repeat: repeat;
+                           background-size: cover;}
+                           .code{
+                            background: linear-gradient(rgba(0, 0, 0, 0.314),rgba(0, 0, 0, 0.721)),url(Code\ Geass\ Lelouch\ of\ the\ Rebellion\ \(2006\).jpg);
+                               height: 100vh;
+                               width: 100%;
+                               background-repeat: repeat;
+                               background-size: cover;}
+            .vid{
+                width: 520px;
+                height: 320px;
+                float: right;
+                padding: 40px;
+            }
+            .con{
+                color: white;
+                text-align: center;
+                background-color: rgba(255, 0, 0, 0.449);
+                padding: 20px;}
+                .yaser{
+                    color: blueviolet;
+                    padding: 12px;
+                }
+                .yaser.h3{
+                    color: black;
+                }
+                .aud{
+                    position: fixed;
+                   
+                    overflow-y: hidden;
+                    overflow-x: hidden;
+                   
+                    background-color: rgb(46, 23, 23);
+                    height: 51px;
+                    box-shadow: 8px;
+                }
